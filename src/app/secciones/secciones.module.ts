@@ -21,7 +21,7 @@ import { AsideComponent } from './aside/aside.component';
     HeaderComponent,
     FooterComponent,
     MainComponent,
-    AsideComponent
+    AsideComponent,
   ]
 })
 export class SeccionesModule { }
